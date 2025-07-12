@@ -2,14 +2,13 @@
 
 Costa Rica
 
-Belinda Brown, belindabrownr04@gmail.com
 
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
 
 ----------
 
-This is a text-based version of the classic Monopoly game with a twist of the Game of Thrones theme. The game supports up to eight players and follows the same rules as the original Monopoly.
+> This is a text-based version of the classic Monopoly game with a twist of the Game of Thrones theme. The game supports up to eight players and follows the same rules as the original Monopoly.
 
 ## Features
 
@@ -22,3 +21,10 @@ This is a text-based version of the classic Monopoly game with a twist of the Ga
 After running the `make` command, you can start the game by running the generated executable. The game will guide you through the setup process where you can select the number of players and assign names.
 
 Enjoy the game and may the odds be ever in your favor!
+
+<!-- START BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
+</div>
+<!-- END BADGE -->
